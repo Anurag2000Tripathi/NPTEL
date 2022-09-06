@@ -1,3 +1,3 @@
 <?php
-include_once("ISDweek-6.html");
+include_once("ISDweek6.html");
 ?>
